@@ -187,11 +187,11 @@ footer {
 }
 
 .circulo-imagem {
-  width: 200px; /* Ajuste o tamanho conforme necessário */
-  height: 200px; /* Ajuste o tamanho conforme necessário */
+  width: 200px; 
+  height: 200px; 
   border-radius: 50%;
   background-image: url('img/Foto\ Crachá\ \(1\).jpeg');
-  background-size: cover; /* Ajusta a imagem para cobrir o círculo */
-  opacity: 0.7; /* Ajuste a transparência */
+  background-size: cover; 
+  opacity: 0.7; 
 }
 
