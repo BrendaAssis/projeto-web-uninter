@@ -7,8 +7,8 @@ https://brendaassis.github.io/projeto-web-uninter/portifolio.html
 ---
 
 🧰 Tecnologias Utilizadas
-HTML5
 
+HTML5
 CSS3
 
 ---
