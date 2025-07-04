@@ -1,22 +1,24 @@
- Projeto Web Uninter
+🎓 Projeto Web Uninter
 Este repositório contém um projeto web desenvolvido no curso de Desenvolvimento WEB da Uninter. O objetivo é criar um portfólio pessoal utilizando HTML, CSS e boas práticas de desenvolvimento web.
 
- Acesse o projeto online:
+🌐 Acesse o projeto online:
 https://brendaassis.github.io/projeto-web-uninter/portifolio.html
 
 ---
 
- Tecnologias Utilizadas
+🧰 Tecnologias Utilizadas
 HTML5
 CSS3
 
 ---
 
- Estrutura do Projeto
-projeto-web-uninter/
-├── img/ # Imagens e ícones
-├── stlless.css # Estilos personalizados
-├── index.html # Página principal (Sobre mim)
-├── portifolio.html # Portfólio de projetos
-├── formacao.html # Formação acadêmica
-├── contato.html # Página de contato
+📂 Estrutura do Projeto
+
+O site é composto por **quatro páginas principais**:
+
+| Página         | Descrição |
+|----------------|-----------|
+| `index.html`   | Apresentação pessoal |
+| `formacao.html`| Formação acadêmica e idiomas |
+| `portfolio.html`| Portifólio de projetos |
+| `contato.html` | Formulário de contato |
